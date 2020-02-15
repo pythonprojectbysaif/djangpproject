@@ -1,1 +1,2 @@
 # djangpproject
+server to client
